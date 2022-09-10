@@ -24,3 +24,6 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+libraries/Keebio-Parts.pretty-master/.github/FUNDING.yml
+libraries/keebio-components-master/.github/FUNDING.yml
+.DS_Store
