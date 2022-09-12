@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 50,
+    "active_layer": 32,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_nets": [],
@@ -62,11 +62,11 @@
       35,
       36
     ],
-    "visible_layers": "ff9ffff_ffffffff",
+    "visible_layers": "f80ffff_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "yts-pcb.kicad_prl",
+    "filename": "yts-switchblade.kicad_prl",
     "version": 3
   },
   "project": {
