@@ -3378,6 +3378,12 @@
   (gr_rect (start 177 45) (end 190 58) (layer "User.1") (width 0.15) (fill none) (tstamp f54017a1-8808-49be-8a4f-a9aff445ce3c))
   (gr_rect (start 82 83) (end 95 96) (layer "User.1") (width 0.15) (fill none) (tstamp fd01365d-389c-4eec-aedc-c17a1ef39e55))
   (gr_rect (start 82 64) (end 95 77) (layer "User.1") (width 0.15) (fill none) (tstamp fd842ae8-fceb-4f0c-8351-fee328703198))
+  (gr_text "yts-1 rev0" (at 225 45) (layer "B.SilkS") (tstamp 76727b6f-acf6-4a0a-bdc6-fb369311cda4)
+    (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
+  )
+  (gr_text "yts-1 rev0" (at 223 45) (layer "F.SilkS") (tstamp 4119b358-5afc-4bf2-aa94-ac0afa08efed)
+    (effects (font (size 1.5 1.5) (thickness 0.3)))
+  )
 
   (segment (start 128.5 49) (end 123.4713 54.0287) (width 0.25) (layer "F.Cu") (net 1) (tstamp 3cc61a2b-77cb-419b-a150-8967096b1f70))
   (segment (start 123.4713 54.0287) (end 117.8713 54.0287) (width 0.25) (layer "F.Cu") (net 1) (tstamp 6793f900-422d-4d0c-9082-df5e26675ba2))
