@@ -2,7 +2,7 @@
   "board": {
     "design_settings": {
       "defaults": {
-        "board_outline_line_width": 0.09999999999999999,
+        "board_outline_line_width": 0.12,
         "copper_line_width": 0.19999999999999998,
         "copper_text_italic": false,
         "copper_text_size_h": 1.5,
@@ -14,7 +14,7 @@
         "dimension_units": 3,
         "dimensions": {
           "arrow_length": 1270000,
-          "extension_offset": 500000,
+          "extension_offset": 0,
           "keep_text_aligned": true,
           "suppress_zeroes": false,
           "text_position": 0,
@@ -26,16 +26,16 @@
         "fab_text_size_v": 1.0,
         "fab_text_thickness": 0.15,
         "fab_text_upright": false,
-        "other_line_width": 0.15,
+        "other_line_width": 0.09999999999999999,
         "other_text_italic": false,
         "other_text_size_h": 1.0,
         "other_text_size_v": 1.0,
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 2.2,
+          "height": 4.4,
+          "width": 4.4
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
