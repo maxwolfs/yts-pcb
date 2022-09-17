@@ -496,10 +496,10 @@
     (fp_rect (start 32 41.3) (end 45 54.3) (layer "Edge.Cuts") (width 0.15) (fill none) (tstamp cfdd00db-8e86-4caf-be32-dac674c363d6))
     (fp_arc (start 139.922183 -10.022183) (mid 140.700005 -9.700005) (end 141.022183 -8.922183) (layer "Edge.Cuts") (width 0.1) (tstamp 0757945d-3a8e-4a93-9a00-910a891fbb28))
     (fp_arc (start -145.992893 -9) (mid -145.7 -9.707107) (end -144.992893 -10) (layer "Edge.Cuts") (width 0.1) (tstamp 461e2461-e27b-4a79-9a26-9ad0192828a8))
-    (fp_arc (start 141 85.500863) (mid 140.677824 86.278669) (end 139.9 86.600863) (layer "Edge.Cuts") (width 0.1) (tstamp a447d26c-595d-4070-acb9-71562a222d7b))
+    (fp_arc (start 141 85.500863) (mid 140.677831 86.278704) (end 139.9 86.600863) (layer "Edge.Cuts") (width 0.1) (tstamp a447d26c-595d-4070-acb9-71562a222d7b))
     (fp_arc (start -145 86.6) (mid -145.707107 86.307107) (end -146 85.6) (layer "Edge.Cuts") (width 0.1) (tstamp ff3574b2-f7b7-4edd-9cb0-655820aaf0a5))
     (model "${KICAD6_3RD_PARTY}/3dmodels/downloaded/tofu v2.step"
-      (offset (xyz -145 9.5 -15.5))
+      (offset (xyz -145 9 -15.5))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
     )
