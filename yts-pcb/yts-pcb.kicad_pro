@@ -402,7 +402,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "yts-pcb.step",
+      "step": "yts-pcb-rev2.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
